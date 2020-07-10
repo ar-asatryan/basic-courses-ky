@@ -1,0 +1,10 @@
+{
+	"port": 3000,
+	"mongoUri": "mongodb://127.0.0.1/basicItCenter",
+	"admin": {
+		"login": "admin",
+		"password": "admin"
+	},
+	"secrettoken": "secrettoken",
+	"exp": "48" 
+}
