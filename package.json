@@ -17,7 +17,7 @@
     "connect-mongo": "^3.2.0",
     "consolidate": "^0.15.1",
     "cookie-parser": "^1.4.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.1",
     "image-type": "^4.1.0",
     "jsonwebtoken": "^8.5.1",
